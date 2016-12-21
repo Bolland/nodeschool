@@ -1,0 +1,13 @@
+.
+..
+arrays.bash
+expansions.bash
+hello.bash
+hi.bash
+parameters.bash
+project
+script.bash
+streams
+touch
+variables.bash
+vimtest

@@ -1,0 +1,22 @@
+{
+  "name": "@bolland/testpackage",
+  "version": "1.0.1",
+  "description": "Testpackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Bolland",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolland/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/bolland/test/issues"
+  },
+  "homepage": "https://github.com/bolland/test#readme"
+}

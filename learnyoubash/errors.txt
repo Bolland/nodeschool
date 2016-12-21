@@ -1,0 +1,4 @@
+grep: if: Is a directory
+grep: project: Is a directory
+grep: streams: Is a directory
+grep: vimtest: Is a directory
